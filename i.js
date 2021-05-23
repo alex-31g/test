@@ -1,3 +1,3 @@
 A;
 BarProp;
-C = 0;
+C = 1;
