@@ -1,3 +1,1 @@
-A;
-BarProp;
-C = 3;
+hello;
