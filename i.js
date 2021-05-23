@@ -1,1 +1,1 @@
-let x = "Hello Space World";
+let x = "Hello Space";
